@@ -1,4 +1,8 @@
 _repo: Chats-on-Royal-Copenhagen-Porcelain_48391
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48391-h/images/coverchat.jpg
 creator:
   author:
     agent_name: Hayden, Arthur
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '37297'
     url: http://www.gutenberg.org/2009/agents/37297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48391#Chats-on-Royal-Copenhagen-Porcelain
 gutenberg_issued: '2015-03-01'
 gutenberg_type: Text
 identifiers:
